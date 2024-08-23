@@ -11,3 +11,5 @@ CLI Based RMM Built in Rust
 * Introduce automation menu where bash/batch/powershell scripts can be streamed and ran through the client service.
 * Introduce an SSH like interactive terminal after selecting a client.
 * Pipe command responses and errors back to the server service.
+* Introduce a monitoring menu for each client, will be able to have threshold based alerts.
+* Introduce a monitoring dashboard that shows every connected client. May be split between pages or an auto-revolving screen to cover all clients.
